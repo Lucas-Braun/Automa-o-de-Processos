@@ -1,0 +1,6 @@
+import pyautogui
+import time
+
+##Ver a posição do Mouse ##
+time.sleep(3)
+print(pyautogui.position())
